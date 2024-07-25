@@ -1,0 +1,2 @@
+# 1panelMianFeiZiYuan
+1panel下如Mysql等所有应用的仓库
